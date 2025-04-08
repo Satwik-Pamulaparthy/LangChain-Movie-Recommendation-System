@@ -23,5 +23,23 @@ pip install -r requirements.txt
 ``` bash
 ollama pull gemma:2b
 ```
+## Run the Assistant:
+``` bash
+python .\langchain_movie_recommender.py
+```
+## Sample Prompt:
+``` bash
+Ask something about movies (or type 'exit'): Suggest a time-travel movie
+```
+## Sample Output:
+``` bash
+Retrieved context:
+1. Tenet, "A secret agent manipulates time..."
+2. Interstellar, "A team travels through a wormhole..."
+🤖 Recommendation: The context describes movies about time travel...
+```
 
 
+
+Feel free to fork, contribute, or customize it for your own movie assistant project!
+- Satwik Pamulaparthy
