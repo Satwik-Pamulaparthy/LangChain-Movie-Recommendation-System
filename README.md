@@ -42,4 +42,5 @@ Retrieved context:
 
 
 Feel free to fork, contribute, or customize it for your own movie assistant project!
-- Satwik Pamulaparthy
+
+Satwik Pamulaparthy
