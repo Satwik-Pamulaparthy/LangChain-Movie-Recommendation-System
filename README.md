@@ -13,6 +13,15 @@ LangChain is a powerful open-source framework designed to help developers build 
 Clone this repo
 ```bash
 git clone [https://github.com/Satwik-Pamulaparthy/langchain-movie-recommender.git]
-cd langchain-movie-recommender ```
+cd langchain-movie-recommender
+```
+## Install Dependencies:
+``` bash
+pip install -r requirements.txt
+```
+## Download the model:
+``` bash
+ollama pull gemma:2b
+```
 
 
