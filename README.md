@@ -2,7 +2,7 @@
 
 LangChain is a powerful open-source framework designed to help developers build LLM-powered applications quickly and efficiently. It allows for chaining multiple steps, managing conversation context, integrating with vector databases, and building intelligent agents.
 
-## 🛠 Features
+##  Features
 -  Uses vector similarity to retrieve movie info from a CSV file
 -  Processes natural language questions using a local LLM (via Ollama)
 -  Vector storage powered by FAISS
@@ -12,5 +12,7 @@ LangChain is a powerful open-source framework designed to help developers build 
 ##  Getting Started
 Clone this repo
 ```bash
-git clone https://github.com/Satwik-Pamulaparthy/langchain-movie-recommender.git
+git clone [https://github.com/Satwik-Pamulaparthy/langchain-movie-recommender.git]
 cd langchain-movie-recommender
+
+## Install Dependencies
